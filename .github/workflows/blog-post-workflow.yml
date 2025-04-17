@@ -18,3 +18,5 @@ jobs:
               with: 
                 max_post_count: "4"
                 feed_list: "https://medium.com/feed/@gauranshmathur1999"
+                committer_username: "github-actions[bot]"
+                committer_email: "github-actions[bot]@users.noreply.github.com"
