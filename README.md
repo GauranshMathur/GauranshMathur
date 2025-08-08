@@ -17,10 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [VPN vs ZTNA : What is best for you?](https://medium.com/@gauranshmathur1999/vpn-vs-ztna-what-is-best-for-you-19698e94359e?source=rss-f5bc49877924------2)
-- [Dvorak : Worth switching as a programmer?](https://medium.com/@gauranshmathur1999/dvorak-worth-switching-as-a-programmer-987b4f679eb7?source=rss-f5bc49877924------2)
-- [Problem Solving : The right way!](https://medium.com/@gauranshmathur1999/problem-solving-the-right-way-e4a930950e17?source=rss-f5bc49877924------2)
-- [A fully fledged Neovim Setup](https://medium.com/@gauranshmathur1999/a-fully-fledged-neovim-setup-a77402442be5?source=rss-f5bc49877924------2)
+- [Do you need a Homelab?](https://gauranshmathur.site/do-you-need-a-homelab/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
