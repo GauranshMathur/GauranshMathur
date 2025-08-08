@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, GitOps and CICD**
 
-- 📝 I regularly write articles on [https://medium.com/@gauranshmathur1999](https://medium.com/@gauranshmathur1999)
+- 📝 I regularly write articles on [https://medium.com/@gauranshmathur1999](https://gauranshmathur.site)
 
 - 💬 Ask me about **Anything Self Hosted/DevOps**
 
