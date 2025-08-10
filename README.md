@@ -17,7 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Do you need a Homelab?](https://gauranshmathur.site/do-you-need-a-homelab/)
+- [Coming soon](https://gauranshmathur.site/coming-soon/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
