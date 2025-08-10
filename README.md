@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you need a Homelab?](https://gauranshmathur.site/do-you-need-a-homelab/)
 - [VPN vs ZTNA : What is best for you?](https://gauranshmathur.site/vpn-vs-ztna-what-is-best-for-you/)
 - [Dvorak : Worth switching as a programmer?](https://gauranshmathur.site/dvorak-worth-switching-as-a-programmer/)
 - [Problem Solving : The right way!](https://gauranshmathur.site/problem-solving-the-right-way/)
-- [A fully fledged Neovim Setup](https://gauranshmathur.site/a-fully-fledged-neovim-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
