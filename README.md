@@ -17,7 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Tech Backlog Keeps Growing—and How to Finally Finish It](https://gauranshmathur.site/why-your-tech-backlog-keeps-growing-and-how-to-finally-finish-it/)
+- [Why Your Tech Backlog Keeps Growing—and How to Finally Finish It](https://gauranshmathur.site/why-your-tech-backlog-keeps-growing/)
 - [Do you need a Homelab?](https://gauranshmathur.site/do-you-need-a-homelab/)
 - [VPN vs ZTNA : What is best for you?](https://gauranshmathur.site/vpn-vs-ztna-what-is-best-for-you/)
 - [Dvorak : Worth switching as a programmer?](https://gauranshmathur.site/dvorak-worth-switching-as-a-programmer/)
