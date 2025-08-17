@@ -18,12 +18,12 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Why Your Tech Backlog Keeps Growing—and How to Finally Finish It](https://gauranshmathur.site/why-your-tech-backlog-keeps-growing/)
-- [Do you need a Homelab?](https://gauranshmathur.site/do-you-need-a-homelab/)
-- [VPN vs ZTNA : What is best for you?](https://gauranshmathur.site/vpn-vs-ztna-what-is-best-for-you/)
-- [Dvorak : Worth switching as a programmer?](https://gauranshmathur.site/dvorak-worth-switching-as-a-programmer/)
-- [Problem Solving : The right way!](https://gauranshmathur.site/problem-solving-the-right-way/)
-- [A fully fledged Neovim Setup](https://gauranshmathur.site/a-fully-fledged-neovim-setup/)
-- [The Easiest Linux Workflow: Arch, Hyprland, Neovim, and Tmux Made Simple](https://gauranshmathur.site/the-easiest-linux-workflow-arch-hyprland-neovim-and-tmux-made-simple/)
+- [Do You Need A Homelab?](https://gauranshmathur.site/do-you-need-a-homelab/)
+- [VPN VS ZTNA : What Is Best For You?](https://gauranshmathur.site/vpn-vs-ztna-what-is-best-for-you/)
+- [Dvorak : Worth Switching As A Programmer?](https://gauranshmathur.site/dvorak-worth-switching-as-a-programmer/)
+- [Problem Solving : The Right Way!](https://gauranshmathur.site/problem-solving-the-right-way/)
+- [The Best And Easiest Neovim Setup](https://gauranshmathur.site/a-fully-fledged-neovim-setup/)
+- [The Easiest Arch, Hyprland, Neovim, and Tmux Setup](https://gauranshmathur.site/the-easiest-arch-hyprland-neovim-and-tmux-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
