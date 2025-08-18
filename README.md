@@ -5,6 +5,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauranshmathur&label=Profile%20views&color=0e75b6&style=flat" alt="gauranshmathur" /> </p>
 
+<div align="center">
+  
+## 💻 Gauransh's Blog
+  
+*This is my personal dev blog, where I talk about my opinions and my expertise on various topics related to SRE / DevOps, Homelabbing and Self-Hosting.*
+
+<a href="https://gauranshmathur.site/#/portal/signup">
+  <img src="https://img.shields.io/badge/Subscribe_to_Blog-7f00ff?style=for-the-badge&logo=ghost&logoColor=white" alt="Subscribe to Newsletter">
+</a>
+
+</div>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauranshmathur&theme=onedark" alt="gauranshmathur" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gauranshmathur" target="blank"><img src="https://img.shields.io/twitter/follow/gauranshmathur?logo=twitter&style=for-the-badge" alt="gauranshmathur" /></a> </p>
