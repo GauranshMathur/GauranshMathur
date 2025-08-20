@@ -35,7 +35,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Why Your Tech Backlog Keeps Growing—and How to Finally Finish It](https://gauranshmathur.site/why-your-tech-backlog-keeps-growing/)
 - [Do You Need A Homelab?](https://gauranshmathur.site/do-you-need-a-homelab/)
-- [VPN VS ZTNA : What Is Best For You?](https://gauranshmathur.site/vpn-vs-ztna-what-is-best-for-you/)
+- [Master VPN vs ZTNA: Tutorials for Tailscale, OpenVPN &amp; ZeroTie](https://gauranshmathur.site/vpn-vs-ztna-what-is-best-for-you/)
 - [Dvorak : Worth Switching As A Programmer?](https://gauranshmathur.site/dvorak-worth-switching-as-a-programmer/)
 - [Problem Solving : The Right Way!](https://gauranshmathur.site/problem-solving-the-right-way/)
 - [The Best And Easiest Neovim Setup](https://gauranshmathur.site/a-fully-fledged-neovim-setup/)
