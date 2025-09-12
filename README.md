@@ -33,6 +33,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Is DevOps Right For You?](https://gauranshmathur.site/is-devops-right-for-you/)
 - [Kubernetes Advanced Concepts: Workloads, Security, Scheduling, and Extensibility: Part 2](https://gauranshmathur.site/kubernetes-advanced-concepts-workloads-security-scheduling-and-extensibility-part-2/)
 - [Kubernetes Fundamentals: Uses, Purpose, and Key Components: Part 1](https://gauranshmathur.site/kubernetes-fundamentals-uses-purpose-and-key-components-part-1/)
 - [Why Your Homelab Needs Backups Now: Lessons, Tools, and the 3-2-1 Rule](https://gauranshmathur.site/build-backups-for-your-homelab/)
@@ -42,7 +43,6 @@
 - [Dvorak : Worth Switching As A Programmer?](https://gauranshmathur.site/dvorak-worth-switching-as-a-programmer/)
 - [Problem Solving : The Right Way!](https://gauranshmathur.site/problem-solving-the-right-way/)
 - [The Best And Easiest Neovim Setup](https://gauranshmathur.site/a-fully-fledged-neovim-setup/)
-- [The Easiest Arch, Hyprland, Neovim, and Tmux Setup](https://gauranshmathur.site/the-easiest-arch-hyprland-neovim-and-tmux-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
