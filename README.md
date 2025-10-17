@@ -33,6 +33,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Self Hosted Cloud Gaming : Apollo/Sunshine and Moonlight and Tailscale](https://gauranshmathur.site/self-hosted-cloud-gaming/)
 - [Video Transcoding Is Necessary For A Media Server](https://gauranshmathur.site/video-transcoding-is-necessary/)
 - [Is DevOps Right For You?](https://gauranshmathur.site/is-devops-right-for-you/)
 - [Kubernetes Advanced Concepts: Workloads, Security, Scheduling, and Extensibility: Part 2](https://gauranshmathur.site/kubernetes-advanced-concepts-workloads-security-scheduling-and-extensibility-part-2/)
@@ -42,7 +43,6 @@
 - [Do You Need A Homelab?](https://gauranshmathur.site/do-you-need-a-homelab/)
 - [Master VPN vs ZTNA: Tutorials for Tailscale, OpenVPN &amp; ZeroTier](https://gauranshmathur.site/vpn-vs-ztna/)
 - [Dvorak : Worth Switching As A Programmer?](https://gauranshmathur.site/dvorak-worth-switching-as-a-programmer/)
-- [Problem Solving : The Right Way!](https://gauranshmathur.site/problem-solving-the-right-way/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
