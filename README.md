@@ -33,6 +33,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Access Claude Code Remotely](https://gauranshmathur.site/claude-code-remote/)
 - [Why Cloudflare went down?](https://gauranshmathur.site/why-cloudflare-went-down/)
 - [Self Hosted Cloud Gaming : Apollo/Sunshine and Moonlight and Tailscale](https://gauranshmathur.site/self-hosted-cloud-gaming/)
 - [Video Transcoding Is Necessary For A Media Server](https://gauranshmathur.site/video-transcoding-is-necessary/)
@@ -42,7 +43,6 @@
 - [Why Your Homelab Needs Backups Now: Lessons, Tools, and the 3-2-1 Rule](https://gauranshmathur.site/build-backups-for-your-homelab/)
 - [Why Your Tech Backlog Keeps Growing—and How to Finally Finish It](https://gauranshmathur.site/why-your-tech-backlog-keeps-growing/)
 - [Do You Need A Homelab?](https://gauranshmathur.site/do-you-need-a-homelab/)
-- [Master VPN vs ZTNA: Tutorials for Tailscale, OpenVPN &amp; ZeroTier](https://gauranshmathur.site/vpn-vs-ztna/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
