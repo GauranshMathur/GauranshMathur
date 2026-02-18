@@ -19,7 +19,7 @@
 
 <br>
 
-<p><a href="https://github.com/GauranshMathur"><img src="https://raw.githubusercontent.com/GauranshMathur/GauranshMathur/main/profile-summary-card-output/0-profile-details.svg" alt="gauranshmathur" /></a></p>
+<p align="left"><a href="https://github.com/GauranshMathur"><img src="https://raw.githubusercontent.com/GauranshMathur/GauranshMathur/main/profile-summary-card-output/0-profile-details.svg" alt="gauranshmathur" /></a></p>
 
 <p align="left"> <a href="https://twitter.com/gauranshmathur" target="blank"><img src="https://img.shields.io/twitter/follow/gauranshmathur?logo=twitter&style=for-the-badge" alt="gauranshmathur" /></a> </p>
 
