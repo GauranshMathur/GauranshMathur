@@ -33,7 +33,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Access Claude Code Remotely](https://gauranshmathur.site/claude-code-remote/)
+- [Access Claude Code Remotely: Claude Remote](https://gauranshmathur.site/claude-code-remote/)
 - [Why Cloudflare went down?](https://gauranshmathur.site/why-cloudflare-went-down/)
 - [Self Hosted Cloud Gaming : Apollo/Sunshine and Moonlight and Tailscale](https://gauranshmathur.site/self-hosted-cloud-gaming/)
 - [Video Transcoding Is Necessary For A Media Server](https://gauranshmathur.site/video-transcoding-is-necessary/)
