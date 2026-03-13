@@ -33,6 +33,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying Geforce Now: KubeVirt &amp; Openshift](https://gauranshmathur.site/geforcenowdemystified/)
 - [Access Claude Code Remotely: Claude Remote](https://gauranshmathur.site/claude-code-remote/)
 - [Why Cloudflare went down?](https://gauranshmathur.site/why-cloudflare-went-down/)
 - [Self Hosted Cloud Gaming : Apollo/Sunshine and Moonlight and Tailscale](https://gauranshmathur.site/self-hosted-cloud-gaming/)
@@ -42,7 +43,6 @@
 - [Kubernetes Fundamentals: Uses, Purpose, and Key Components: Part 1](https://gauranshmathur.site/kubernetes-fundamentals-uses-purpose-and-key-components-part-1/)
 - [Why Your Homelab Needs Backups Now: Lessons, Tools, and the 3-2-1 Rule](https://gauranshmathur.site/build-backups-for-your-homelab/)
 - [Why Your Tech Backlog Keeps Growing—and How to Finally Finish It](https://gauranshmathur.site/why-your-tech-backlog-keeps-growing/)
-- [Do You Need A Homelab?](https://gauranshmathur.site/do-you-need-a-homelab/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
