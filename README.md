@@ -59,4 +59,6 @@
 
 <p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/GauranshMathur/GauranshMathur/main/profile-summary-card-output/github_dark/3-stats.svg" alt="gauranshmathur" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=GauranshMathur&theme=github-dark-blue" alt="gauranshmathur" /></p>
+<p><img align="left" src="https://raw.githubusercontent.com/GauranshMathur/GauranshMathur/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="gauranshmathur" /></p>
+
+<p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/GauranshMathur/GauranshMathur/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="gauranshmathur" /></p>
