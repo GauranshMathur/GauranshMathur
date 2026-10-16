@@ -33,6 +33,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [[Quick Bites] Enterprise Cloud Infra](https://gauranshmathur.site/quick-bites-enterprise-cloud-infra/)
 - [Floci vs LocalStack](https://gauranshmathur.site/floci-vs-localstack/)
 - [Another Day, Another CVE](https://gauranshmathur.site/another-day-another-cve/)
 - [Demystifying Geforce Now: KubeVirt &amp; Openshift](https://gauranshmathur.site/geforcenowdemystified/)
@@ -42,7 +43,6 @@
 - [Video Transcoding Is Necessary For A Media Server](https://gauranshmathur.site/video-transcoding-is-necessary/)
 - [Is DevOps Right For You?](https://gauranshmathur.site/is-devops-right-for-you/)
 - [Kubernetes Advanced Concepts: Workloads, Security, Scheduling, and Extensibility: Part 2](https://gauranshmathur.site/kubernetes-advanced-concepts-workloads-security-scheduling-and-extensibility-part-2/)
-- [Kubernetes Fundamentals: Uses, Purpose, and Key Components: Part 1](https://gauranshmathur.site/kubernetes-fundamentals-uses-purpose-and-key-components-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
