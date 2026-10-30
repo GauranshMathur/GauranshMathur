@@ -33,6 +33,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [[Quick Bites] Load Balancers](https://gauranshmathur.site/quick-bites-load-balancers/)
 - [[Quick Bites]: CDN](https://gauranshmathur.site/quick-bites-cdn/)
 - [[Quick Bites] Enterprise Cloud Infra](https://gauranshmathur.site/quick-bites-enterprise-cloud-infra/)
 - [Floci vs LocalStack](https://gauranshmathur.site/floci-vs-localstack/)
@@ -42,7 +43,6 @@
 - [Why Cloudflare went down?](https://gauranshmathur.site/why-cloudflare-went-down/)
 - [Self Hosted Cloud Gaming : Apollo/Sunshine and Moonlight and Tailscale](https://gauranshmathur.site/self-hosted-cloud-gaming/)
 - [Video Transcoding Is Necessary For A Media Server](https://gauranshmathur.site/video-transcoding-is-necessary/)
-- [Is DevOps Right For You?](https://gauranshmathur.site/is-devops-right-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
