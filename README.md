@@ -33,6 +33,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [[Quick Bites] Common Services](https://gauranshmathur.site/quick-bites-common-services/)
 - [[Quick Bites] Firewall](https://gauranshmathur.site/quick-bites-firewall/)
 - [[Quick Bites] Load Balancers](https://gauranshmathur.site/quick-bites-load-balancers/)
 - [[Quick Bites]: CDN](https://gauranshmathur.site/quick-bites-cdn/)
@@ -42,7 +43,6 @@
 - [Demystifying Geforce Now: KubeVirt &amp; Openshift](https://gauranshmathur.site/geforcenowdemystified/)
 - [Access Claude Code Remotely: Claude Remote](https://gauranshmathur.site/claude-code-remote/)
 - [Why Cloudflare went down?](https://gauranshmathur.site/why-cloudflare-went-down/)
-- [Self Hosted Cloud Gaming : Apollo/Sunshine and Moonlight and Tailscale](https://gauranshmathur.site/self-hosted-cloud-gaming/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
